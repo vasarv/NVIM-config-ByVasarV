@@ -370,6 +370,7 @@ require("auto-save").setup(
 )
 EOF
 
+" test-com
 " Fast component creating for React app
 command CreateComponent :terminal '/Users/alexeygoloburdin/code/lms/frontend/createcomponent.py'
 
